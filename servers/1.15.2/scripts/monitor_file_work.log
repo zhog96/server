@@ -1,0 +1,154 @@
+[15:27:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:27:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:27:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:27:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:27:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:27:36] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[15:27:36] [Server thread/INFO]: Loading properties
+[15:27:36] [Server thread/INFO]: Default game type: SURVIVAL
+[15:27:36] [Server thread/INFO]: Generating keypair
+[15:27:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:27:37] [Server thread/INFO]: Using epoll channel type
+[15:27:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:27:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:27:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:27:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:27:37] [Server thread/INFO]: Preparing level "world"
+[15:27:37] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:27:39] [Server thread/INFO]: Loaded 6 recipes
+[15:27:39] [Server thread/INFO]: Loaded 825 advancements
+[15:27:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:27:54] [Server thread/INFO]: Preparing spawn area: 0%
+[15:27:54] [Server thread/INFO]: Preparing spawn area: 0%
+[15:27:54] [Server thread/INFO]: Preparing spawn area: 0%
+[15:27:54] [Server thread/INFO]: Preparing spawn area: 0%
+[15:27:55] [Server thread/INFO]: Preparing spawn area: 0%
+[15:27:55] [Server thread/INFO]: Preparing spawn area: 0%
+[15:27:55] [Server thread/INFO]: Time elapsed: 3100 ms
+[15:27:55] [Server thread/INFO]: Done (18.427s)! For help, type "help"
+[15:29:46] [Server thread/INFO]: zhog96[/185.117.29.192:50881] logged in with entity id 251 at (-258.29373065608144, 64.0, 16.466257951067245)
+[15:29:46] [Server thread/INFO]: zhog96 joined the game
+[15:30:15] [Server thread/INFO]: zhog96 lost connection: Disconnected
+[15:30:15] [Server thread/INFO]: zhog96 left the game
+[15:30:21] [Server thread/INFO]: zhog96[/185.117.29.192:51237] logged in with entity id 378 at (-234.5819904579519, 63.0, 31.047021345714633)
+[15:30:21] [Server thread/INFO]: zhog96 joined the game
+[15:30:22] [Server thread/INFO]: zhog96 lost connection: Disconnected
+[15:30:22] [Server thread/INFO]: zhog96 left the game
+[15:31:19] [Server thread/INFO]: zhog96[/185.117.29.192:55978] logged in with entity id 379 at (-234.5819904579519, 63.0, 31.047021345714633)
+[15:31:19] [Server thread/INFO]: zhog96 joined the game
+[15:31:22] [Server thread/INFO]: zhog96 lost connection: Disconnected
+[15:31:22] [Server thread/INFO]: zhog96 left the game
+[15:31:52] [Server thread/INFO]: zhog96[/185.117.29.192:55538] logged in with entity id 380 at (-234.5819904579519, 63.0, 31.047021345714633)
+[15:31:52] [Server thread/INFO]: zhog96 joined the game
+[15:32:00] [Server thread/INFO]: zhog96 lost connection: Disconnected
+[15:32:00] [Server thread/INFO]: zhog96 left the game
+[15:32:02] [Server thread/INFO]: zhog96[/185.117.29.192:63700] logged in with entity id 402 at (-240.69999998807907, 63.0, 32.162279002018096)
+[15:32:02] [Server thread/INFO]: zhog96 joined the game
+[15:32:10] [Server thread/INFO]: zhog96 lost connection: Disconnected
+[15:32:10] [Server thread/INFO]: zhog96 left the game
+[15:32:32] [Server thread/INFO]: zhog96[/185.117.29.192:53489] logged in with entity id 421 at (-247.88308868876354, 64.0, 24.853170784919108)
+[15:32:32] [Server thread/INFO]: zhog96 joined the game
+[15:32:40] [Server thread/INFO]: zhog96 lost connection: Disconnected
+[15:32:40] [Server thread/INFO]: zhog96 left the game
+[15:37:21] [Server thread/INFO]: zhog96[/185.117.29.192:50857] logged in with entity id 447 at (-246.93382580290142, 64.0, 25.35033085749582)
+[15:37:21] [Server thread/INFO]: zhog96 joined the game
+[15:37:31] [Server thread/INFO]: zhog96 lost connection: Disconnected
+[15:37:31] [Server thread/INFO]: zhog96 left the game
+[09:08:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 59148ms or 1182 ticks behind
+[19:19:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10992ms or 219 ticks behind
+[03:09:55] [Server thread/INFO]: zhog96[/93.175.28.31:30308] logged in with entity id 463 at (-254.47482590707244, 64.0, 20.423911123513193)
+[03:09:57] [Server thread/INFO]: zhog96 joined the game
+[03:10:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23689ms or 473 ticks behind
+[03:10:20] [Server thread/WARN]: zhog96 moved too quickly! 5.968121878084872,-1.0,8.099297949272025
+[03:10:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6721ms or 134 ticks behind
+[03:10:58] [Server thread/INFO]: zhog96 lost connection: Disconnected
+[03:10:58] [Server thread/INFO]: zhog96 left the game
+[09:10:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 75240ms or 1504 ticks behind
+[09:10:51] [Server Watchdog/FATAL]: A single server tick took 75.24 seconds (should be max 0.05)
+[09:10:51] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[09:10:52] [Server Watchdog/ERROR]: This crash report has been saved to: /home/Minecraft/servers/1.15.2/./crash-reports/crash-2020-02-19_09.10.52-server.txt
+[09:10:52] [Server thread/INFO]: Stopping server
+[09:10:52] [Server thread/INFO]: Saving players
+[09:10:52] [Server thread/INFO]: Saving worlds
+[09:10:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[09:10:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:10:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[09:10:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:10:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[09:10:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:10:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:10:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:10:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:11:24] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:11:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:11:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:11:24] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:11:24] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:11:24] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[09:11:24] [Server thread/INFO]: Loading properties
+[09:11:24] [Server thread/INFO]: Default game type: SURVIVAL
+[09:11:24] [Server thread/INFO]: Generating keypair
+[09:11:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:11:24] [Server thread/INFO]: Using epoll channel type
+[09:11:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:11:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:11:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:11:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:11:25] [Server thread/INFO]: Preparing level "world"
+[09:11:25] [Server thread/INFO]: Reloading ResourceManager: Default
+[09:11:26] [Server thread/INFO]: Loaded 6 recipes
+[09:11:27] [Server thread/INFO]: Loaded 825 advancements
+[09:11:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:11:42] [Server thread/INFO]: Preparing spawn area: 0%
+[09:11:42] [Server thread/INFO]: Preparing spawn area: 0%
+[09:11:42] [Server thread/INFO]: Preparing spawn area: 0%
+[09:11:42] [Server thread/INFO]: Preparing spawn area: 0%
+[09:11:42] [Server thread/INFO]: Preparing spawn area: 0%
+[09:11:42] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[09:11:43] [Server thread/INFO]: Time elapsed: 3272 ms
+[09:11:43] [Server thread/INFO]: Done (18.108s)! For help, type "help"
+[07:48:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 85453ms or 1709 ticks behind
+[07:48:09] [Server Watchdog/FATAL]: A single server tick took 85.34 seconds (should be max 0.05)
+[07:48:09] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[07:48:09] [Server Watchdog/ERROR]: This crash report has been saved to: /home/Minecraft/servers/1.15.2/./crash-reports/crash-2020-02-20_07.48.09-server.txt
+[07:48:09] [Server thread/INFO]: Stopping server
+[07:48:10] [Server thread/INFO]: Saving players
+[07:48:10] [Server thread/INFO]: Saving worlds
+[07:48:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[07:48:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:48:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[07:48:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:48:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[07:48:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:48:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:48:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:48:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:48:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:48:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:48:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:48:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:48:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:48:34] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[07:48:34] [Server thread/INFO]: Loading properties
+[07:48:34] [Server thread/INFO]: Default game type: SURVIVAL
+[07:48:34] [Server thread/INFO]: Generating keypair
+[07:48:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:48:34] [Server thread/INFO]: Using epoll channel type
+[07:48:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:48:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:48:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:48:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:48:35] [Server thread/INFO]: Preparing level "world"
+[07:48:35] [Server thread/INFO]: Reloading ResourceManager: Default
+[07:48:36] [Server thread/INFO]: Loaded 6 recipes
+[07:48:37] [Server thread/INFO]: Loaded 825 advancements
+[07:48:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:48:52] [Server thread/INFO]: Preparing spawn area: 0%
+[07:48:52] [Server thread/INFO]: Preparing spawn area: 0%
+[07:48:52] [Server thread/INFO]: Preparing spawn area: 0%
+[07:48:52] [Server thread/INFO]: Preparing spawn area: 0%
+[07:48:52] [Server thread/INFO]: Preparing spawn area: 0%
+[07:48:52] [Server thread/INFO]: Preparing spawn area: 0%
+[07:48:53] [Server thread/INFO]: Time elapsed: 3135 ms
+[07:48:53] [Server thread/INFO]: Done (18.000s)! For help, type "help"
+[07:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6854ms or 137 ticks behind

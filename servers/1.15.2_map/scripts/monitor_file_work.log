@@ -1,0 +1,201 @@
+[15:25:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:25:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:25:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:25:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:25:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:25:46] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[15:25:46] [Server thread/INFO]: Loading properties
+[15:25:46] [Server thread/INFO]: Default game type: SURVIVAL
+[15:25:46] [Server thread/INFO]: Generating keypair
+[15:25:47] [Server thread/INFO]: Starting Minecraft server on *:25566
+[15:25:47] [Server thread/INFO]: Using epoll channel type
+[15:25:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:25:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:25:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:25:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:25:47] [Server thread/INFO]: Preparing level "world"
+[15:25:47] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:25:48] [Server thread/INFO]: Loaded 6 recipes
+[15:25:49] [Server thread/INFO]: Loaded 825 advancements
+[15:25:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:25:52] [Server thread/INFO]: Preparing spawn area: 0%
+[15:25:52] [Server thread/INFO]: Preparing spawn area: 0%
+[15:25:52] [Server thread/INFO]: Preparing spawn area: 0%
+[15:25:52] [Server thread/INFO]: Preparing spawn area: 0%
+[15:25:53] [Server thread/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:26:05] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:26:06] [Server thread/INFO]: Preparing spawn area: 0%
+[15:26:06] [Server thread/INFO]: Time elapsed: 15635 ms
+[15:26:06] [Server thread/INFO]: Done (19.270s)! For help, type "help"
+[15:28:17] [Server thread/INFO]: zhog96[/185.117.29.192:50626] logged in with entity id 261 at (-235.62233204510923, 63.0, 10.547771868513578)
+[15:28:17] [Server thread/INFO]: zhog96 joined the game
+[15:28:29] [Server thread/INFO]: zhog96 lost connection: Disconnected
+[15:28:29] [Server thread/INFO]: zhog96 left the game
+[15:31:22] [Server thread/INFO]: zhog96[/185.117.29.192:54730] logged in with entity id 316 at (-235.92922497049682, 63.0, 14.10521154422539)
+[15:31:22] [Server thread/INFO]: zhog96 joined the game
+[15:31:24] [Server thread/INFO]: zhog96 lost connection: Disconnected
+[15:31:24] [Server thread/INFO]: zhog96 left the game
+[15:32:13] [Server thread/INFO]: zhog96[/185.117.29.192:61594] logged in with entity id 323 at (-235.92922497049682, 63.0, 14.10521154422539)
+[15:32:13] [Server thread/INFO]: zhog96 joined the game
+[15:32:21] [Server thread/INFO]: zhog96 lost connection: Disconnected
+[15:32:21] [Server thread/INFO]: zhog96 left the game
+[15:33:14] [Server thread/INFO]: zhog96[/185.117.29.192:54526] logged in with entity id 356 at (-255.50212298284967, 65.0, 10.050357926866045)
+[15:33:14] [Server thread/INFO]: zhog96 joined the game
+[15:34:57] [Server thread/INFO]: [zhog96: Gave 1 [TNT] to zhog96]
+[15:35:04] [Server thread/INFO]: [zhog96: Gave 1000 [TNT] to zhog96]
+[15:36:24] [Server thread/INFO]: [zhog96: Gave 1 [Diamond Axe] to zhog96]
+[15:37:03] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/798, l='world', x=-255.71, y=63.46, z=4.31]
+[15:37:03] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/799, l='world', x=-255.35, y=66.28, z=1.59]
+[15:37:03] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/800, l='world', x=-258.67, y=64.62, z=6.50]
+[15:37:03] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/801, l='world', x=-261.33, y=66.58, z=5.46]
+[15:37:03] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/802, l='world', x=-254.45, y=65.71, z=3.27]
+[15:37:03] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/803, l='world', x=-258.65, y=66.25, z=2.58]
+[15:37:03] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/804, l='world', x=-259.53, y=64.71, z=8.54]
+[15:37:04] [Server thread/WARN]: Fetching packet for removed entity awb['Oak Sapling'/918, l='world', x=-263.41, y=69.60, z=17.60]
+[15:37:04] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/919, l='world', x=-268.39, y=70.58, z=13.41]
+[15:37:19] [Server thread/INFO]: zhog96 lost connection: Disconnected
+[15:37:19] [Server thread/INFO]: zhog96 left the game
+[15:37:33] [Server thread/INFO]: zhog96[/185.117.29.192:50778] logged in with entity id 975 at (-251.92641092585814, 64.0, 15.415022568469531)
+[15:37:33] [Server thread/INFO]: zhog96 joined the game
+[15:37:36] [Server thread/INFO]: zhog96 lost connection: Disconnected
+[15:37:36] [Server thread/INFO]: zhog96 left the game
+[05:16:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
+[16:29:30] [Server Watchdog/FATAL]: A single server tick took 201.32 seconds (should be max 0.05)
+[16:29:30] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[16:29:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 201354ms or 4027 ticks behind
+[16:29:31] [Server Watchdog/ERROR]: This crash report has been saved to: /home/Minecraft/servers/1.15.2_map/./crash-reports/crash-2020-02-17_16.29.30-server.txt
+[16:29:31] [Server thread/INFO]: Stopping server
+[16:29:31] [Server thread/INFO]: Saving players
+[16:29:31] [Server thread/INFO]: Saving worlds
+[16:29:31] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[16:29:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:29:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[16:29:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:29:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[16:29:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:29:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:29:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:29:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:30:10] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:30:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:30:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:30:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:30:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:30:10] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[16:30:10] [Server thread/INFO]: Loading properties
+[16:30:10] [Server thread/INFO]: Default game type: SURVIVAL
+[16:30:10] [Server thread/INFO]: Generating keypair
+[16:30:11] [Server thread/INFO]: Starting Minecraft server on *:25566
+[16:30:11] [Server thread/INFO]: Using epoll channel type
+[16:30:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:30:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:30:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:30:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:30:11] [Server thread/INFO]: Preparing level "world"
+[16:30:11] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:30:12] [Server thread/INFO]: Loaded 6 recipes
+[16:30:13] [Server thread/INFO]: Loaded 825 advancements
+[16:30:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:30:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:30:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:30:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:30:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:30:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:30:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:30:28] [Server thread/INFO]: Preparing spawn area: 51%
+[16:30:28] [Server thread/INFO]: Time elapsed: 3325 ms
+[16:30:28] [Server thread/INFO]: Done (16.690s)! For help, type "help"
+[08:31:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38260ms or 765 ticks behind
+[04:02:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 81339ms or 1626 ticks behind
+[04:02:28] [Server Watchdog/FATAL]: A single server tick took 81.33 seconds (should be max 0.05)
+[04:02:28] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[04:02:29] [Server Watchdog/ERROR]: This crash report has been saved to: /home/Minecraft/servers/1.15.2_map/./crash-reports/crash-2020-02-20_04.02.29-server.txt
+[04:02:29] [Server thread/INFO]: Stopping server
+[04:02:29] [Server thread/INFO]: Saving players
+[04:02:29] [Server thread/INFO]: Saving worlds
+[04:02:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[04:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:02:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[04:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:02:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[04:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:02:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:02:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:02:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:02:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:02:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:02:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:02:58] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[04:02:58] [Server thread/INFO]: Loading properties
+[04:02:58] [Server thread/INFO]: Default game type: SURVIVAL
+[04:02:58] [Server thread/INFO]: Generating keypair
+[04:02:58] [Server thread/INFO]: Starting Minecraft server on *:25566
+[04:02:58] [Server thread/INFO]: Using epoll channel type
+[04:02:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:02:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:02:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:02:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:02:59] [Server thread/INFO]: Preparing level "world"
+[04:02:59] [Server thread/INFO]: Reloading ResourceManager: Default
+[04:03:00] [Server thread/INFO]: Loaded 6 recipes
+[04:03:02] [Server thread/INFO]: Loaded 825 advancements
+[04:03:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server thread/INFO]: Preparing spawn area: 1%
+[04:03:19] [Server thread/INFO]: Time elapsed: 15048 ms
+[04:03:19] [Server thread/INFO]: Done (20.065s)! For help, type "help"
+[07:18:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26268ms or 525 ticks behind

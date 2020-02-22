@@ -1,0 +1,53 @@
+[04:02:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:02:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:02:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:02:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:02:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:02:58] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[04:02:58] [Server thread/INFO]: Loading properties
+[04:02:58] [Server thread/INFO]: Default game type: SURVIVAL
+[04:02:58] [Server thread/INFO]: Generating keypair
+[04:02:58] [Server thread/INFO]: Starting Minecraft server on *:25566
+[04:02:58] [Server thread/INFO]: Using epoll channel type
+[04:02:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:02:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:02:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:02:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:02:59] [Server thread/INFO]: Preparing level "world"
+[04:02:59] [Server thread/INFO]: Reloading ResourceManager: Default
+[04:03:00] [Server thread/INFO]: Loaded 6 recipes
+[04:03:02] [Server thread/INFO]: Loaded 825 advancements
+[04:03:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:08] [Server thread/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:03:18] [Server thread/INFO]: Preparing spawn area: 1%
+[04:03:19] [Server thread/INFO]: Time elapsed: 15048 ms
+[04:03:19] [Server thread/INFO]: Done (20.065s)! For help, type "help"
+[07:18:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26268ms or 525 ticks behind

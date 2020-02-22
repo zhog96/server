@@ -1,0 +1,6 @@
+Feb 16, 2020 3:27:37 PM io.netty.util.internal.MacAddressUtil defaultMachineId
+WARNING: Failed to find a usable hardware address from the network interfaces; using random bytes: 5e:16:9d:b6:9c:eb:92:b6
+Feb 19, 2020 9:11:25 AM io.netty.util.internal.MacAddressUtil defaultMachineId
+WARNING: Failed to find a usable hardware address from the network interfaces; using random bytes: db:5e:b5:32:44:13:91:5b
+Feb 20, 2020 7:48:34 AM io.netty.util.internal.MacAddressUtil defaultMachineId
+WARNING: Failed to find a usable hardware address from the network interfaces; using random bytes: bd:42:9d:12:ca:01:2c:00

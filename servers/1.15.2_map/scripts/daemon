@@ -1,0 +1,88 @@
+#!/bin/bash
+
+MINECRAFT_DIR="/home/Minecraft/servers/1.15.2_map"
+WATCH_DIR="${MINECRAFT_DIR}/scripts"
+PID_FILE="${WATCH_DIR}/monitor_file.pid"
+PID_D_FILE="${WATCH_DIR}/monitor_file_d.pid"
+LOCK_FILE="${WATCH_DIR}/monitor_file.lock"
+JOB_LOCK_FILE="${WATCH_DIR}/job_monitor_file.lock"
+LOG="${WATCH_DIR}/monitor_file_work.log"
+ERR_LOG="${WATCH_DIR}/monitor_file_error.log"
+RANGE=100
+
+_log()
+{
+	process=$1
+	shift
+	echo "${process}[$$]: $*"
+}
+
+usage()
+{
+	echo "$0 (start|stop)"
+}
+
+stop()
+{
+	if [ -e ${PID_FILE} ]
+	then
+		_pid=$(cat ${PID_FILE})
+		kill $_pid
+		rt=$?
+		if [ "$rt" == "0" ]
+		then
+			rm ${PID_FILE}
+			echo "Daemon stop"
+		else
+			echo "Error stop daemon"
+		fi
+	else
+		echo "Daemon is't running"
+	fi
+}
+
+start()
+{
+	if [ -e $PID_FILE ]
+	then
+		_pid=$(cat ${PID_FILE})
+		if [ -e /proc/${_pid} ]
+		then
+			echo "Daemon already running with pid = $_pid"
+			exit 0
+		fi
+	fi
+	touch ${LOG}
+	touch ${ERR_LOG}
+	cd /
+	exec > $LOG
+	exec 2> $ERR_LOG
+	exec < /dev/null	
+
+	cd ${MINECRAFT_DIR}
+	
+	(
+		while [ 1 ]
+		do
+			java -Xmx2048M -Xmx2048M -jar server.jar
+			sleep 10 	
+		done
+	)&
+
+	
+
+	echo $! > ${PID_FILE}
+}
+
+case $1 in
+	"start")
+		start
+		;;
+	"stop")
+		stop
+		;;
+	*)
+		usage
+		;;
+esac
+exit
